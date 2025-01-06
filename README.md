@@ -1,1 +1,1 @@
-## GitFlowTest-conf2
+## GitFlowTest-conf-solved
